@@ -36,3 +36,11 @@ For this subtask, I implemented a GAN model on the provided dataset. I used pix2
 ### Subtask 2.4
 
 To implement the diffusion model for underwater image enhancement, I used forward and reverse processes with Simple UNet.
+
+# Conclusion
+    Evaluations
+    
+    Models     PSNR         SSIM       MSE
+    VAE      18.7001      0.6258     0.0187
+    GAN      14.5933      0.5410     0.0461
+    Diff     16.3050      0.4945     0.0297
