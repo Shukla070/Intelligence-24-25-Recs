@@ -6,6 +6,7 @@
     Subtask 1.2 - NLP
 
 2.) Task 2 - Underwater Image Enhancement Project
+
     Subtask 2.1 - VAE
     
     Subtask 2.2 - GANs on MNIST Dataset
