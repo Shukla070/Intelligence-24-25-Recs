@@ -2,12 +2,16 @@
 
 ## Table of Contents 
 1.) Task 1 - Kaggle Competition
+
     Subtask 1.2 - NLP
 
 2.) Task 2 - Underwater Image Enhancement Project
     Subtask 2.1 - VAE
+    
     Subtask 2.2 - GANs on MNIST Dataset
+    
     Subtask 2.3 - GANs on dataset
+    
     Subtask 2.4 - Diffusion Model
 
 ## Task 1 - NLP
